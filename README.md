@@ -19,7 +19,7 @@ A feedforward neural network is constructed that is catered for classification p
 
 ![model](https://user-images.githubusercontent.com/95268200/176714750-1a724051-dd66-4919-bae1-59d98c2b7a00.png)
 
-The model is trained with a batch size of 32 and for 100 epochs. Early stopping is applied in this training. The training stops at epoch 24, with a training accuracy of 92% and validation accuracy of 84%. The two figures below show the graph of the training process.
+The model is trained with a batch size of 32 and for 100 epochs. Early stopping is applied in this training. The training stops at epoch 47, with a training accuracy of 92% and validation accuracy of 84%. The two figures below show the graph of the training process.
 
 ![Loss_graph](https://user-images.githubusercontent.com/95268200/176726631-a83d711e-f3fb-4882-a7fa-8ed0c9bf2be1.PNG)
 
